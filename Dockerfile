@@ -1,4 +1,4 @@
-FROM rafaelprada/ojetbuilder
+FROM rafaelpradaavanttic/ojetbuilder
 COPY . .
 RUN ojet build
 
